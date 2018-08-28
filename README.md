@@ -1,4 +1,4 @@
-# DAB---
+# DAB (-)
 
 2018-08-28: DAB(Digital Audio Broadcast) jammer 
 * Analyce DAB droadcasting and find the best way to sabotage transmitions with use of strategicaly timed short radiopulses to 
